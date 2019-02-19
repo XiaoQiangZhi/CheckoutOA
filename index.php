@@ -4,6 +4,4 @@
  echo 'I have achieve this file';
  echo 'version 1.0';
 
- echo 'This is master branch';
-
 ?>
